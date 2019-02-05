@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bury-\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.40\d39920020ab3e74f406a8e142fb94b360f3f80f8\kotlin-stdlib-1.2.40.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d39920020ab3e74f406a8e142fb94b360f3f80f8">
+        <dex dex="C:\Users\bury-\AndroidStudioProjects\SpeakNSpell6\app\build\intermediates\pre-dexed\release\kotlin-stdlib-1.2.40_bb74b58ff79e7b539a2f9cdf0dab86db1492ec69.jar" />
+    </item>
+    <item
+        jar="C:\Users\bury-\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="C:\Users\bury-\AndroidStudioProjects\SpeakNSpell6\app\build\intermediates\pre-dexed\release\annotations-13.0_0c12569631e18a22570400afd7252860562cfebe.jar" />
+    </item>
+    <item
+        jar="C:\Users\bury-\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.2.40\4c50fc36bfb773f16cb2295dda8cb9e92a3481a3\kotlin-stdlib-jdk7-1.2.40.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4c50fc36bfb773f16cb2295dda8cb9e92a3481a3">
+        <dex dex="C:\Users\bury-\AndroidStudioProjects\SpeakNSpell6\app\build\intermediates\pre-dexed\release\kotlin-stdlib-jdk7-1.2.40_ad43a99e193c84044ad392158198acc98ad84f1c.jar" />
+    </item>
+
+</items>

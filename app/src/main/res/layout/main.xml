@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/layout"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/background_light"
+    >
+	<ImageView 
+		android:id="@+id/buryware" 
+		android:layout_x="5px" 
+		android:layout_y="0px" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:src="@drawable/buryware">
+	</ImageView>
+	
+	<EditText android:id="@+id/note_text"
+		android:layout_x="4px"
+        android:layout_y="24px"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:imeOptions="actionDone"
+        android:textColor="#800020"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:enabled="false"
+        android:gravity="center"
+        android:freezesText="true">
+   	</EditText>
+   	
+	<ListView
+	    android:id="@+id/user_choices"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content" >
+	</ListView>
+</LinearLayout>
